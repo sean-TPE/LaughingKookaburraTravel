@@ -1,0 +1,22 @@
+{
+  "name": "laughingkookaburratravel",
+  "version": "1.0.0",
+  "description": "Web Development with Node and Express by Ethan Brown (O'Reilly). Copyright 2014 Ethan Brown, 978-1-491-94930-6.",
+  "main": "kookaburra.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sean-TPE/LaughingKookaburraTravel.git"
+  },
+  "author": "Seano",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sean-TPE/LaughingKookaburraTravel/issues"
+  },
+  "homepage": "https://github.com/sean-TPE/LaughingKookaburraTravel#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
